@@ -47,6 +47,9 @@ Expected Outcomes
 Clusters of Movies: Group movies into clusters where each cluster contains movies with similar genres and average ratings.
 Genre Prediction Model: A trained Random Forest Classifier that can predict the genre of a movie based on its features.
 Insights: Understand the distribution and relationship between different genres and average ratings of movies.
+
+
+
 Conclusion
 This project demonstrates the application of machine learning techniques to classify and cluster movies based on their genres and average ratings. The approach provides a method for organizing and understanding large movie datasets, which can be useful for recommendation systems and market analysis in the entertainment industry.
 
